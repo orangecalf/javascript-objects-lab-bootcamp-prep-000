@@ -16,3 +16,5 @@ function deleteFromObjectByKey(object, key) {
   return kidd
   
 }
+
+function 
